@@ -17,7 +17,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Software Engineer Specialist 
+### I am a Software Engineer Specialist at Damascus University 
 - 🔭 I’m currently working on my Graduation Project :grin:
 - 🌱 I’m currently learning Django Framework.
 - 👯 I’m looking to collaborate with other Developers :wink:
@@ -52,13 +52,3 @@
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 <br>
-<br>
-<br>
-<br>
-
-### :zap: Github Stats
-
-  <img align="left" src="https://github-readme-stats.tarook0.vercel.app/api?username=tarook0&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Tarek's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.tarook0.vercel.app/api/top-langs/?username=tarook0&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Tarek's Top Languages">
-
