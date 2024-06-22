@@ -18,11 +18,11 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Software Engineer Specialist at Damascus University 
-- 🔭 I’m currently working on my Graduation Project 👨‍🎓:
+- 🔭 I’m currently working on my Graduation Project 👨‍🎓
 - 🌱 I’m currently learning Django Framework.
-- 👯 I’m looking to collaborate with other Developers 🤝:
+- 👯 I’m looking to collaborate with other Developers 🤝
 - 🥅 2024 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help 🤓:
+- 💬 Ask me about anything, I am happy to help 🤓
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people and telling them jokes :raised_hands:
 
