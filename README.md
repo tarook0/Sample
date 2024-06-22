@@ -26,7 +26,8 @@
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people and telling them jokes :raised_hands:
 
-<br>
+<be>
+
 ### Languages and Tools: 
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -59,5 +60,5 @@
 
   <img align="left" src="https://github-readme-stats.tarook0.vercel.app/api?username=tarook0&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Tarek's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=tarook0&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+<img src="https://github-readme-stats.tarook0.vercel.app/api/top-langs/?username=tarook0&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Tarek's Top Languages">
 
