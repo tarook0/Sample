@@ -20,9 +20,9 @@
 ### I am a Software Engineer Specialist at Damascus University 
 - 🔭 I’m currently working on my Graduation Project :grin:
 - 🌱 I’m currently learning Django Framework.
-- 👯 I’m looking to collaborate with other Developers :wink:
+- 👯 I’m looking to collaborate with other Developers 🤝:
 - 🥅 2024 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
+- 💬 Ask me about anything, I am happy to help 🤓:
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people and telling them jokes :raised_hands:
 
